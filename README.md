@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanu</h1>
 
 <h3 align="center">
-💻 Frontend Developer | 🐍 Python Developer 
+💻 SOFTWARE ENGINEER 
 </h3>
 
 <p align="center">
